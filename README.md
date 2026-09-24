@@ -7,3 +7,4 @@ before they are applied to private repositories.
 
 Rules on `dev` and `main`: pull request required, status check `gates`
 required and up to date, no force pushes, no deletion, rules apply to admins.
+- rehearsed 2026-09-24
